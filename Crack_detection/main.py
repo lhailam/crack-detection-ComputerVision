@@ -8,7 +8,7 @@ import argparse
 from predict_new import predict_new
 plt.figure(figsize=(10,10))
 
-img_dir = 'test_img/1-4.jpg'
+img_dir = 'test_img/crack1.jpg'
 image_name = img_dir.split('/')[-1]
 # img_shape = cv2.imread()
 
